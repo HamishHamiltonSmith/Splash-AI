@@ -19,7 +19,7 @@ Whilst currently in an early development phase, at this point in time Splash is 
 - Saving/Loading functionality
 - A dataset loader tool
 
-In time I would like to really elaborate on this, adding suport for diferent forms of pooling, more optimization algorithms, reinforcement learning and more.
+In time I would like to really elaborate on this, adding support for diferent forms of pooling, more optimization algorithms, reinforcement learning and more.
 
 # Roadmap
 
