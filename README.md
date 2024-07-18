@@ -8,7 +8,7 @@
 
 # About
 
-Splash is a C++ framework designed to allow anyone too create capable AI models with little set-up. 
+Splash is a C++ framework designed to allow anyone to create capable AI models with little set-up. 
 Utilities which allow users to save networks easily and load datasets automatically help create a 
 streamlined development workflow. 
 
