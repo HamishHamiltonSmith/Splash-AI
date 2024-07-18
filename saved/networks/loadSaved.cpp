@@ -29,7 +29,7 @@ typedef std::vector<std::vector<double>> img;
 
 int main() {
 
-    Network nw = Network(loadFromFile("saved/mnistNet.spl"));
+    Network nw = Network(loadFromFile("mnistNet.spl"));
 
 
     Loader tester = Loader(LoadType::PNG_INT, LoadStyle::DYNAMIC, ModelType::CLASSIFY, 28*28, 1*10, "datasets/mnist-pngs/test.csv", "datasets/mnist-pngs/");
