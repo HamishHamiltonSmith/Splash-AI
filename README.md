@@ -16,7 +16,7 @@ Whilst currently in an early development phase, at this point in time Splash is 
 - Multilayer networks with a variety of available activations
 - Partial convolutional networks with max pooling
 - SGD optimization with an MSE loss
-- Saving/Loading functionality
+- Network Saving/Loading functionality
 - A dataset loader tool
 
 In time I would like to really elaborate on this, adding support for diferent forms of pooling, more optimization algorithms, reinforcement learning and more.
@@ -31,7 +31,7 @@ In time I would like to really elaborate on this, adding support for diferent fo
 
 # Documentation
 
-Coming soon!
+Coming soon! (Soon being some arbitrary point in the future which may not actually be particularly soon at all)
 
 
 
